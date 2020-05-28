@@ -1,3 +1,0 @@
-html n css 
-bootstrap
-javascript
